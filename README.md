@@ -2,12 +2,12 @@
  Aplikasi Inventory Barang Sederhana (PHP)
 
 Informasi Aplikasi
-- Database: MySQL 4.4.14
-- Programming Language: Hypertext Preprocessor (PHP)
+- Database: MySQL 5.6.26
+- Programming Language: Hypertext Preprocessor (PHP) 5.6.12
 - CSS Framework: Bootstrap 4
 
 ### Petunjuk Penggunaan
-- Download build terakhir (zip) dari menu <b>"releases"</b> > <b>"Source Code (zip)"</b>,
+- Download build terakhir (zip) dari menu <b>"releases"</b> > <b>"Assets"</b> > <b>"Source Code (zip)"</b>,
 - Extract file hasil download, lalu copy seluruh isi dari folder <b>"aplikasi-inventory-barang-sederhana-php-(versi)"</b> ke direktori <b>"public_html"</b> (hosting) atau <b>"htdocs"</b> (XAMPP),
 - Buat database dengan nama <b>"inv-barang2"</b> pada MySQL,
 - Ubah file <b>"koneksi.php"</b> yang terdapat pada direktori <b>"inc"</b> (seperti: host database, user database, password database, atau nama database (jika membuat database dengan nama selain "inv-barang2")).
