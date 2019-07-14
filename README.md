@@ -11,6 +11,7 @@ Informasi Aplikasi
 - Extract file hasil download, lalu copy seluruh isi dari folder <b>"aplikasi-inventory-barang-sederhana-php-(versi)"</b> ke direktori <b>"public_html"</b> (hosting) atau <b>"htdocs"</b> (XAMPP),
 - Buat database dengan nama <b>"inv-barang2"</b> pada MySQL,
 - Ubah file <b>"koneksi.php"</b> yang terdapat pada direktori <b>"inc"</b> (seperti: host database, user database, password database, atau nama database (jika membuat database dengan nama selain "inv-barang2")).
+- Username: muhrizki1996 Password: 1234
 
 --------------------------------------------------------------------------------------------
 
@@ -44,4 +45,4 @@ Informasi Aplikasi
 --------------------------------------------------------------------------------------------
  
 ### Credits
-[Apache Friends a.k.a XAMPP](https://www.apachefriends.org/) | [PHP: Hypertext Preprocessor a.k.a PHP](https://php.net/) | [MySQL](https://www.mysql.com/) | [Bootstrap](https://getbootstrap.com/) | <b>Yanda Avisena</b> who's help perfecting this project.
+[Apache Friends a.k.a XAMPP](https://www.apachefriends.org/) | [PHP: Hypertext Preprocessor a.k.a PHP](https://php.net/) | [MySQL](https://www.mysql.com/) | [Bootstrap](https://getbootstrap.com/) | [GitHub](https://github.com/) | <b>Yanda Avisena</b> who's help perfecting this project.
