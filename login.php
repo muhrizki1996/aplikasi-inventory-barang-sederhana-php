@@ -10,7 +10,9 @@ if($cek > 0){
       session_start();
       $_SESSION['username'] = $username;
       $_SESSION['status'] = 'login';
-header("location:admin/index.php"); }else{
-      header("location:index.php");
-}
+header("location:admin/index.php"); 
+            }
+            else {
+                  header("location:index.php");
+                  }
 ?>
