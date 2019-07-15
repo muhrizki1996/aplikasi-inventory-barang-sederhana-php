@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Home | Inventory Barang</title>
+  <title>Edit Data Barang | Inventory Barang</title>
 
   <!-- Bootstrap core CSS -->
   <link href="../assets/css/bootstrap.css" rel="stylesheet">

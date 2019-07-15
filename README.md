@@ -10,8 +10,9 @@ Informasi Aplikasi
 - Download build terakhir (zip) dari menu <b>"releases"</b> > <b>"Assets"</b> > <b>"Source Code (zip)"</b>,
 - Extract file hasil download, lalu copy seluruh isi dari folder <b>"aplikasi-inventory-barang-sederhana-php-(versi)"</b> ke direktori <b>"public_html"</b> (hosting) atau <b>"htdocs"</b> (XAMPP),
 - Buat database dengan nama <b>"inv-barang2"</b> pada MySQL,
-- Ubah file <b>"koneksi.php"</b> yang terdapat pada direktori <b>"inc"</b> (seperti: host database, user database, password database, atau nama database (jika membuat database dengan nama selain "inv-barang2")).
-- Username: muhrizki1996 Password: 1234
+- Masuk ke <b>"phpMyAdmin"</b> > <b>"inv-barang2"</b> atau nama database kalian (jika membuat database dengan nama selain "inv-barang2")) > <b>"Import"</b> > <b>"File to Import:"</b> > <b>"inv-barang2.sql"</b> > <b>"Go"</b>,
+- Ubah file <b>"koneksi.php"</b> yang terdapat pada direktori <b>"inc"</b> (seperti: host database, user database, password database, atau nama database (jika membuat database dengan nama selain "inv-barang2")),
+- Username: muhrizki1996 Password: 1234 .
 
 --------------------------------------------------------------------------------------------
 
