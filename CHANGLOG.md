@@ -10,7 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - CHANGELOG.md
 
 ### Changed
-- Memperbaiki judul halaman, pada halaman Input Data Barang
+- Memperbaiki judul halaman, pada halaman Edit Data Barang
 - Memperbarui screenshot input-data-barang.png
 
 ## [1.0] - 2019-07-14
